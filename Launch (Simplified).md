@@ -3,6 +3,7 @@ TONStarter sets default values to make launching your project quick and easy.
 
 1. Prepare to Launch
 First, enter the TONStarter Launch page as shown below.
+![image](https://github.com/user-attachments/assets/ab3bd4bf-42da-42fd-937d-164f241884f5)
 
 
 Connecting a crypto wallet
